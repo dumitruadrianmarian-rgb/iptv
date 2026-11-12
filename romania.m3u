@@ -1,0 +1,422 @@
+#EXTM3U url-tvg="http://192.168.0.5:8888/epg.xml.gz"
+#EXTINF:-1 tvg-id="TVR.1.ro" tvg-chno="1" tvg-logo="http://192.168.0.5:8888/logos/tvr_1.png?v=2" group-title="Generale",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR.2.HD.ro" tvg-chno="2" tvg-logo="http://192.168.0.5:8888/logos/tvr_2.png?v=2" group-title="Generale",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PRO.TV.HD.ro" tvg-chno="3" tvg-logo="http://192.168.0.5:8888/logos/pro_tv_hd.png?v=2" group-title="Generale",PRO TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (HbbTV/1.2.1;)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Antena.1.HD.ro" tvg-chno="4" tvg-logo="http://192.168.0.5:8888/logos/antena_1.png?v=2" group-title="Generale",Antena 1
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
+#EXTINF:-1 tvg-id="Kanal.D.HD.ro" tvg-chno="5" tvg-logo="http://192.168.0.5:8888/logos/kanal_d.png?v=2" group-title="Generale",Kanal D
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-id="Kanal.D2.ro" tvg-chno="6" tvg-logo="http://192.168.0.5:8888/logos/kanal_d2.png?v=2" group-title="Generale",Kanal D2
+https://stream2.kanald.ro/iphone/knd2-live.m3u8
+#EXTINF:-1 tvg-id="National.TV.ro" tvg-chno="7" tvg-logo="http://192.168.0.5:8888/logos/national_tv.png?v=2" group-title="Generale",National TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="Acasa.ro" tvg-chno="8" tvg-logo="http://192.168.0.5:8888/logos/acasa_tv.png?v=2" group-title="Generale",Acasa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (HbbTV/1.2.1;)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Acasa.Gold.ro" tvg-chno="9" tvg-logo="http://192.168.0.5:8888/logos/acasa_gold.png?v=2" group-title="Generale",Acasa Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (HbbTV/1.2.1;)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Happy.Channel.HD.ro" tvg-chno="10" tvg-logo="http://192.168.0.5:8888/logos/happy_channel.png?v=2" group-title="Generale",Happy Channel
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
+#EXTINF:-1 tvg-id="TVR.3.ro" tvg-chno="11" tvg-logo="http://192.168.0.5:8888/logos/tvr_3.png?v=2" group-title="Generale",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR.Cultural.ro" tvg-chno="12" tvg-logo="http://192.168.0.5:8888/logos/tvr_cultural.png?v=2" group-title="Generale",TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR.Folclor.ro" tvg-chno="13" tvg-logo="http://192.168.0.5:8888/logos/tvr_folclor.png?v=2" group-title="Generale",TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Metropola.TV.ro" tvg-chno="14" tvg-logo="http://192.168.0.5:8888/logos/metropola_tv.png?v=2" group-title="Generale",Metropola TV
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+#EXTINF:-1 tvg-id="PRO.TV.INTERNATIONAL.ro" tvg-chno="15" tvg-logo="http://192.168.0.5:8888/logos/pro_tv_international.png?v=2" group-title="Generale",PRO TV International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (HbbTV/1.2.1;)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="Antena.International.HD.ro" tvg-chno="16" tvg-logo="http://192.168.0.5:8888/logos/antena_international.png?v=2" group-title="Generale",Antena International
+https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
+#EXTINF:-1 tvg-id="TVR.International.ro" tvg-chno="17" tvg-logo="http://192.168.0.5:8888/logos/tvr_international.png?v=2" group-title="Generale",TVR International
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-chno="301" tvg-logo="http://192.168.0.5:8888/logos/lovenature_4k.png" group-title="4K Ultra HD",Love Nature 4K UHD (2160p)
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-chno="302" tvg-logo="http://192.168.0.5:8888/logos/eurosport_4k.png" group-title="4K Ultra HD",Eurosport 4K (1440p QHD)
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-chno="303" tvg-logo="http://192.168.0.5:8888/logos/bloomberg_4k.png" group-title="4K Ultra HD",Bloomberg TV+ 4K UHD (2160p)
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="Fireplace4K.us" tvg-chno="304" tvg-logo="http://192.168.0.5:8888/logos/fireplace_4k.png" group-title="4K Ultra HD",Fireplace 4K Relaxation (2160p)
+https://d21izs34d0y5tl.cloudfront.net/2160p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="OceanVibes4K.us" tvg-chno="305" tvg-logo="http://192.168.0.5:8888/logos/ocean_vibes_4k.png" group-title="4K Ultra HD",Ocean Vibes 4K Relaxation (2160p)
+https://pb-vt93jy06rfty1.akamaized.net/2160p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="HunanTV.cn" tvg-chno="306" tvg-logo="http://192.168.0.5:8888/logos/hunan_4k.png" group-title="4K Ultra HD",Hunan TV 4K UHD (2160p)
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="Digi.24.HD.ro" tvg-chno="18" tvg-logo="http://192.168.0.5:8888/logos/digi_24.png?v=2" group-title="Stiri",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-id="Antena.3.CNN.HD.ro" tvg-chno="19" tvg-logo="http://192.168.0.5:8888/logos/antena_3_cnn.png?v=2" group-title="Stiri",Antena 3 CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-id="România.TV.ro" tvg-chno="20" tvg-logo="http://192.168.0.5:8888/logos/romania_tv.png?v=2" group-title="Stiri",Romania TV
+https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="Realitatea.Plus.ro" tvg-chno="21" tvg-logo="http://192.168.0.5:8888/logos/realitatea_plus.png?v=2" group-title="Stiri",Realitatea Plus
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="B1.TV.HD.ro" tvg-chno="22" tvg-logo="http://192.168.0.5:8888/logos/b1_tv.png?v=2" group-title="Stiri",B1 TV
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="TVR.Info.ro" tvg-chno="23" tvg-logo="http://192.168.0.5:8888/logos/tvr_info.png?v=2" group-title="Stiri",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews.Romania.HD.ro" tvg-chno="24" tvg-logo="http://192.168.0.5:8888/logos/euronews_romania.png?v=2" group-title="Stiri",Euronews Romania
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
+#EXTINF:-1 tvg-id="Prima.News.ro" tvg-chno="25" tvg-logo="http://192.168.0.5:8888/logos/prima_news.png?v=2" group-title="Stiri",Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-chno="26" tvg-logo="http://192.168.0.5:8888/logos/protv_news.png?v=2" group-title="Stiri",PROTV News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (HbbTV/1.2.1;)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-chno="27" tvg-logo="http://192.168.0.5:8888/logos/observator_news.png?v=2" group-title="Stiri",Observator News
+https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-id="Aleph.News.ro" tvg-chno="28" tvg-logo="http://192.168.0.5:8888/logos/aleph_news.png?v=2" group-title="Stiri",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Aleph.Business.HD.ro" tvg-chno="29" tvg-logo="http://192.168.0.5:8888/logos/aleph_business.png?v=2" group-title="Stiri",Aleph Business
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Pro.Cinema.ro" tvg-chno="30" tvg-logo="http://192.168.0.5:8888/logos/pro_cinema.png?v=2" group-title="Filme & Seriale",Pro Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (HbbTV/1.2.1;)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CinemaratonPlus.ro@HD" tvg-chno="31" tvg-logo="http://192.168.0.5:8888/logos/cinemaraton_plus.png?v=2" group-title="Filme & Seriale",Cinemaraton Plus
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+#EXTINF:-1 tvg-id="Viasat.Kino.ro" tvg-chno="32" tvg-logo="http://192.168.0.5:8888/logos/viasat_kino.png?v=2" group-title="Filme & Seriale",Viasat Kino (TV 1000)
+http://192.168.0.5:8888/live/viasat_kino.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania" tvg-chno="33" tvg-logo="http://192.168.0.5:8888/logos/filmbox_one.png?v=2" group-title="Filme & Seriale",FILMBOX+ One (FilmBox)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl@Romania" tvg-chno="34" tvg-logo="http://192.168.0.5:8888/logos/filmbox_hits.png?v=2" group-title="Filme & Seriale",FILMBOX+ Hits (Filmbox Premium)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@Romania" tvg-chno="35" tvg-logo="http://192.168.0.5:8888/logos/filmbox_comedy.png?v=2" group-title="Filme & Seriale",FILMBOX+ Comedy (Filmbox Family) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Romania" tvg-chno="36" tvg-logo="http://192.168.0.5:8888/logos/filmbox_love_crime.png?v=2" group-title="Filme & Seriale",FILMBOX+ Love & Crime (Filmbox Stars)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 tvg-id="Bollywood.Clasic.ro" tvg-chno="37" tvg-logo="http://192.168.0.5:8888/logos/bollywood_classic.png?v=2" group-title="Filme & Seriale",Bollywood Classic
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+#EXTINF:-1 tvg-id="HBO.HD.ro" tvg-chno="38" tvg-logo="http://192.168.0.5:8888/logos/hbo.png?v=2" group-title="Filme & Seriale",HBO
+http://192.168.0.5:8888/live/hbo1.m3u8
+#EXTINF:-1 tvg-id="HBO.2.HD.ro" tvg-chno="39" tvg-logo="http://192.168.0.5:8888/logos/hbo_2.png?v=2" group-title="Filme & Seriale",HBO 2
+http://192.168.0.5:8888/live/hbo2.m3u8
+#EXTINF:-1 tvg-id="HBO.3.HD.ro" tvg-chno="40" tvg-logo="http://192.168.0.5:8888/logos/hbo_3.png?v=2" group-title="Filme & Seriale",HBO 3
+http://192.168.0.5:8888/live/hbo3.m3u8
+#EXTINF:-1 tvg-id="CineMAX.ro" tvg-chno="41" tvg-logo="http://192.168.0.5:8888/logos/cinemax.png?v=2" group-title="Filme & Seriale",Cinemax
+http://192.168.0.5:8888/live/cinemax1.m3u8
+#EXTINF:-1 tvg-id="Cinemax.2.HD.ro" tvg-chno="42" tvg-logo="http://192.168.0.5:8888/logos/cinemax_2.png?v=2" group-title="Filme & Seriale",Cinemax 2
+http://192.168.0.5:8888/live/cinemax2.m3u8
+#EXTINF:-1 tvg-id="AXN.HD.ro" tvg-chno="43" tvg-logo="http://192.168.0.5:8888/logos/axn.png?v=2" group-title="Filme & Seriale",AXN
+http://192.168.0.5:8888/live/axn.m3u8
+#EXTINF:-1 tvg-id="AXN.Black.ro" tvg-chno="44" tvg-logo="http://192.168.0.5:8888/logos/axn_black.png?v=2" group-title="Filme & Seriale",AXN Black
+http://192.168.0.5:8888/live/axn_black.m3u8
+#EXTINF:-1 tvg-id="AXN.White.ro" tvg-chno="45" tvg-logo="http://192.168.0.5:8888/logos/axn_white.png?v=2" group-title="Filme & Seriale",AXN White
+http://192.168.0.5:8888/live/axn_white.m3u8
+#EXTINF:-1 tvg-id="AXN.Spin.ro" tvg-chno="46" tvg-logo="http://192.168.0.5:8888/logos/axn_spin.png?v=2" group-title="Filme & Seriale",AXN Spin
+http://192.168.0.5:8888/live/axn_spin.m3u8
+#EXTINF:-1 tvg-id="Warner.TV.ro" tvg-chno="47" tvg-logo="http://192.168.0.5:8888/logos/warner_tv.png?v=2" group-title="Filme & Seriale",Warner TV
+http://192.168.0.5:8888/live/warner_tv.m3u8
+#EXTINF:-1 tvg-id="Sci.Fi.ro" tvg-chno="48" tvg-logo="http://192.168.0.5:8888/logos/sci_fi_channel.png?v=2" group-title="Filme & Seriale",Sci-Fi Channel
+http://192.168.0.5:8888/live/scifi.m3u8
+#EXTINF:-1 tvg-id="Diva.ro" tvg-chno="49" tvg-logo="http://192.168.0.5:8888/logos/diva_universal.png?v=2" group-title="Filme & Seriale",DIVA Universal
+http://192.168.0.5:8888/live/diva.m3u8
+#EXTINF:-1 tvg-id="FILM.CAFE.HD.ro" tvg-chno="50" tvg-logo="http://192.168.0.5:8888/logos/film_cafe.png?v=2" group-title="Filme & Seriale",Film Cafe
+http://192.168.0.5:8888/live/film_cafe.m3u8
+#EXTINF:-1 tvg-id="AMC.HD.ro" tvg-chno="51" tvg-logo="http://192.168.0.5:8888/logos/amc.png?v=2" group-title="Filme & Seriale",AMC
+http://192.168.0.5:8888/live/amc.m3u8
+#EXTINF:-1 tvg-id="Epic.Drama.ro" tvg-chno="52" tvg-logo="http://192.168.0.5:8888/logos/epic_drama.png?v=2" group-title="Filme & Seriale",Epic Drama
+http://192.168.0.5:8888/live/epic_drama.m3u8
+#EXTINF:-1 tvg-id="Viasat.Kino.ro" tvg-chno="53" tvg-logo="http://192.168.0.5:8888/logos/viasat_kino.png?v=2" group-title="Filme & Seriale",TV 1000 (Viasat Kino)
+http://192.168.0.5:8888/live/viasat_kino.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.HD.ro" tvg-chno="54" tvg-logo="http://192.168.0.5:8888/logos/comedy_central.png?v=2" group-title="Filme & Seriale",Comedy Central
+http://192.168.0.5:8888/live/comedy_central.m3u8
+#EXTINF:-1 tvg-id="FilmBox.Extra.HD.ro" tvg-chno="55" tvg-logo="http://192.168.0.5:8888/logos/filmbox_extra.png?v=2" group-title="Filme & Seriale",Filmbox Extra HD
+http://192.168.0.5:8888/live/filmbox_extra.m3u8
+#EXTINF:-1 tvg-id="Filmbox.Premium.ro" tvg-chno="56" tvg-logo="http://192.168.0.5:8888/logos/filmbox_premium.png?v=2" group-title="Filme & Seriale",Filmbox Premium
+http://192.168.0.5:8888/live/filmbox_premium.m3u8
+#EXTINF:-1 tvg-id="FilmBox.Family.ro" tvg-chno="57" tvg-logo="http://192.168.0.5:8888/logos/filmbox_family.png?v=2" group-title="Filme & Seriale",Filmbox Family (FILMBOX+ Comedy) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 tvg-id="Filmbox.Stars.ro" tvg-chno="58" tvg-logo="http://192.168.0.5:8888/logos/filmbox_stars.png?v=2" group-title="Filme & Seriale",Filmbox Stars (FILMBOX+ Love & Crime)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 tvg-id="BollywoodTV.ro" tvg-chno="59" tvg-logo="http://192.168.0.5:8888/logos/bollywood_tv.png?v=2" group-title="Filme & Seriale",Bollywood TV
+http://192.168.0.5:8888/live/bollywood_tv.m3u8
+#EXTINF:-1 tvg-id="TVR.Sport.HD.ro" tvg-chno="60" tvg-logo="http://192.168.0.5:8888/logos/tvr_sport.png?v=2" group-title="Sport",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Pro.Arena.ro" tvg-chno="61" tvg-logo="http://192.168.0.5:8888/logos/pro_arena.png?v=2" group-title="Sport",Pro Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (HbbTV/1.2.1;)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-chno="62" tvg-logo="http://192.168.0.5:8888/logos/realitatea_sportiva.png?v=2" group-title="Sport",Realitatea Sportiva
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="VoyoSport1.ro@HD" tvg-chno="63" tvg-logo="http://192.168.0.5:8888/logos/voyo_sport_1.png?v=2" group-title="Sport",Voyo Sport 1
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+#EXTINF:-1 tvg-id="The.Fishing.&.Hunting.Channel.HD.ro" tvg-chno="64" tvg-logo="http://192.168.0.5:8888/logos/fishing_hunting_hd.png?v=2" group-title="Sport",Fishing & Hunting HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/fishing_hun/index.m3u8
+#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-chno="66" tvg-logo="http://192.168.0.5:8888/logos/digi_sport_1.png?v=2" group-title="Sport",Digi Sport 1
+http://192.168.0.5:8888/live/digi_sport1.m3u8
+#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-chno="67" tvg-logo="http://192.168.0.5:8888/logos/digi_sport_2.png?v=2" group-title="Sport",Digi Sport 2
+http://192.168.0.5:8888/live/digi_sport2.m3u8
+#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-chno="68" tvg-logo="http://192.168.0.5:8888/logos/digi_sport_3.png?v=2" group-title="Sport",Digi Sport 3
+http://192.168.0.5:8888/live/digi_sport3.m3u8
+#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-chno="69" tvg-logo="http://192.168.0.5:8888/logos/digi_sport_4.png?v=2" group-title="Sport",Digi Sport 4
+http://192.168.0.5:8888/live/digi_sport4.m3u8
+#EXTINF:-1 tvg-id="Prima.Sport.1.HD.ro" tvg-chno="70" tvg-logo="http://192.168.0.5:8888/logos/prima_sport_1.png?v=2" group-title="Sport",Prima Sport 1
+http://192.168.0.5:8888/live/prima_sport1.m3u8
+#EXTINF:-1 tvg-id="Prima.Sport.2.HD.ro" tvg-chno="71" tvg-logo="http://192.168.0.5:8888/logos/prima_sport_2.png?v=2" group-title="Sport",Prima Sport 2
+http://192.168.0.5:8888/live/prima_sport2.m3u8
+#EXTINF:-1 tvg-id="Prima.Sport.3.HD.ro" tvg-chno="72" tvg-logo="http://192.168.0.5:8888/logos/prima_sport_3.png?v=2" group-title="Sport",Prima Sport 3
+http://192.168.0.5:8888/live/prima_sport3.m3u8
+#EXTINF:-1 tvg-id="Prima.Sport.4.HD.ro" tvg-chno="73" tvg-logo="http://192.168.0.5:8888/logos/prima_sport_4.png?v=2" group-title="Sport",Prima Sport 4
+http://192.168.0.5:8888/live/prima_sport4.m3u8
+#EXTINF:-1 tvg-id="Prima.Sport.5.HD.ro" tvg-chno="74" tvg-logo="http://192.168.0.5:8888/logos/prima_sport_5.png?v=2" group-title="Sport",Prima Sport 5
+http://192.168.0.5:8888/live/prima_sport5.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.HD.ro" tvg-chno="75" tvg-logo="http://192.168.0.5:8888/logos/eurosport_1.png?v=2" group-title="Sport",Eurosport 1
+http://192.168.0.5:8888/live/eurosport1.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.ro" tvg-chno="76" tvg-logo="http://192.168.0.5:8888/logos/eurosport_2.png?v=2" group-title="Sport",Eurosport 2
+http://192.168.0.5:8888/live/eurosport2.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.ro" tvg-chno="77" tvg-logo="http://192.168.0.5:8888/logos/national_geographic_wild.png?v=2" group-title="Documentare",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+#EXTINF:-1 tvg-id="Travel.Mix.ro" tvg-chno="78" tvg-logo="http://192.168.0.5:8888/logos/travel_mix.png?v=2" group-title="Documentare",Travel Mix
+https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
+#EXTINF:-1 tvg-id="Agro.TV.ro" tvg-chno="79" tvg-logo="http://192.168.0.5:8888/logos/agro_tv.png?v=2" group-title="Documentare",Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.ro" tvg-chno="80" tvg-logo="http://192.168.0.5:8888/logos/discovery_channel.png?v=2" group-title="Documentare",Discovery Channel
+http://192.168.0.5:8888/live/discovery.m3u8
+#EXTINF:-1 tvg-id="ID.Investigation.Discovery.HD.ro" tvg-chno="82" tvg-logo="http://192.168.0.5:8888/logos/investigation_discovery.png?v=2" group-title="Documentare",Investigation Discovery
+http://192.168.0.5:8888/live/id_investigation.m3u8
+#EXTINF:-1 tvg-id="Crime.+.Investigation.ro" tvg-chno="83" tvg-logo="http://192.168.0.5:8888/logos/crime_investigation.png?v=2" group-title="Documentare",Crime + Investigation
+http://192.168.0.5:8888/live/crime_investigation.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.HD.ro" tvg-chno="84" tvg-logo="http://192.168.0.5:8888/logos/national_geographic.png?v=2" group-title="Documentare",National Geographic
+http://192.168.0.5:8888/live/natgeo.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.ro" tvg-chno="85" tvg-logo="http://192.168.0.5:8888/logos/nat_geo_wild.png?v=2" group-title="Documentare",Nat Geo Wild
+http://192.168.0.5:8888/live/natgeo_wild.m3u8
+#EXTINF:-1 tvg-id="History.HD.ro" tvg-chno="86" tvg-logo="http://192.168.0.5:8888/logos/history_channel.png?v=2" group-title="Documentare",History Channel
+http://192.168.0.5:8888/live/history.m3u8
+#EXTINF:-1 tvg-id="HGTV.HD.ro" tvg-chno="87" tvg-logo="http://192.168.0.5:8888/logos/hgtv.png?v=2" group-title="Documentare",HGTV
+http://192.168.0.5:8888/live/hgtv.m3u8
+#EXTINF:-1 tvg-id="TLC.ro" tvg-chno="88" tvg-logo="http://192.168.0.5:8888/logos/tlc.png?v=2" group-title="Documentare",TLC
+http://192.168.0.5:8888/live/tlc.m3u8
+#EXTINF:-1 tvg-id="Travel.Channel.ro" tvg-chno="89" tvg-logo="http://192.168.0.5:8888/logos/travel_channel.png?v=2" group-title="Documentare",Travel Channel
+http://192.168.0.5:8888/live/travel.m3u8
+#EXTINF:-1 tvg-id="TV.Paprika.ro" tvg-chno="90" tvg-logo="http://192.168.0.5:8888/logos/tv_paprika.png?v=2" group-title="Documentare",TV Paprika
+http://192.168.0.5:8888/live/tv_paprika.m3u8
+#EXTINF:-1 tvg-id="BBC.Earth.HD.ro" tvg-chno="91" tvg-logo="http://192.168.0.5:8888/logos/bbc_earth.png?v=2" group-title="Documentare",BBC Earth
+http://192.168.0.5:8888/live/bbc_earth.m3u8
+#EXTINF:-1 tvg-id="The.Fishing.&.Hunting.Channel.HD.ro" tvg-chno="92" tvg-logo="http://192.168.0.5:8888/logos/fishing_hunting.png?v=2" group-title="Documentare",Fishing & Hunting
+http://192.168.0.5:8888/live/fishing_hunting.m3u8
+#EXTINF:-1 tvg-id="Viasat.Explore.ro" tvg-chno="93" tvg-logo="http://192.168.0.5:8888/logos/viasat_explore.png?v=2" group-title="Documentare",Viasat Explore
+http://192.168.0.5:8888/live/viasat_explore.m3u8
+#EXTINF:-1 tvg-id="Viasat.History.HD.ro" tvg-chno="94" tvg-logo="http://192.168.0.5:8888/logos/viasat_history.png?v=2" group-title="Documentare",Viasat History
+http://192.168.0.5:8888/live/viasat_history.m3u8
+#EXTINF:-1 tvg-id="Viasat.Nature.ro" tvg-chno="95" tvg-logo="http://192.168.0.5:8888/logos/viasat_nature.png?v=2" group-title="Documentare",Viasat Nature
+http://192.168.0.5:8888/live/viasat_nature.m3u8
+#EXTINF:-1 tvg-id="TraLaLa.HD.ro" tvg-chno="96" tvg-logo="http://192.168.0.5:8888/logos/tralala_tv.png?v=2" group-title="Copii & Animatie",TraLaLa TV
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+#EXTINF:-1 tvg-id="TraLaLa.Desene.Animate.ro" tvg-chno="97" tvg-logo="http://192.168.0.5:8888/logos/tralala_dsn.png?v=2" group-title="Copii & Animatie",TraLaLa DSN
+https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon.Network.ro" tvg-chno="98" tvg-logo="http://192.168.0.5:8888/logos/cartoon_network.png?v=2" group-title="Copii & Animatie",Cartoon Network
+http://192.168.0.5:8888/live/cartoon_network.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.ro" tvg-chno="99" tvg-logo="http://192.168.0.5:8888/logos/cartoonito.png?v=2" group-title="Copii & Animatie",Cartoonito
+http://192.168.0.5:8888/live/cartoonito.m3u8
+#EXTINF:-1 tvg-id="Disney.Channel.ro" tvg-chno="100" tvg-logo="http://192.168.0.5:8888/logos/disney_channel.png?v=2" group-title="Copii & Animatie",Disney Channel
+http://192.168.0.5:8888/live/disney_channel.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.ro" tvg-chno="101" tvg-logo="http://192.168.0.5:8888/logos/disney_junior.png?v=2" group-title="Copii & Animatie",Disney Junior
+http://192.168.0.5:8888/live/disney_junior.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.HD.ro" tvg-chno="102" tvg-logo="http://192.168.0.5:8888/logos/nickelodeon.png?v=2" group-title="Copii & Animatie",Nickelodeon
+http://192.168.0.5:8888/live/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.ro" tvg-chno="103" tvg-logo="http://192.168.0.5:8888/logos/nicktoons.png?v=2" group-title="Copii & Animatie",Nicktoons
+http://192.168.0.5:8888/live/nicktoons.m3u8
+#EXTINF:-1 tvg-id="Nick.Jr.ro" tvg-chno="104" tvg-logo="http://192.168.0.5:8888/logos/nickelodeon_junior.png?v=2" group-title="Copii & Animatie",Nickelodeon Junior
+http://192.168.0.5:8888/live/nick_jr.m3u8
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-chno="105" tvg-logo="http://192.168.0.5:8888/logos/minimax.png?v=2" group-title="Copii & Animatie",Minimax
+http://192.168.0.5:8888/live/minimax.m3u8
+#EXTINF:-1 tvg-id="Jimjam.ro" tvg-chno="106" tvg-logo="http://192.168.0.5:8888/logos/jim_jam.png?v=2" group-title="Copii & Animatie",Jim Jam
+http://192.168.0.5:8888/live/jim_jam.m3u8
+#EXTINF:-1 tvg-id="Duck.TV.HD.ro" tvg-chno="107" tvg-logo="http://192.168.0.5:8888/logos/duck_tv.png?v=2" group-title="Copii & Animatie",Duck TV
+http://192.168.0.5:8888/live/duck_tv.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.ro" tvg-chno="108" tvg-logo="http://192.168.0.5:8888/logos/boomerang.png?v=2" group-title="Copii & Animatie",Boomerang
+http://192.168.0.5:8888/live/boomerang.m3u8
+#EXTINF:-1 tvg-id="Magic.TV.ro" tvg-chno="109" tvg-logo="http://192.168.0.5:8888/logos/magic_tv.png?v=2" group-title="Muzica",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 tvg-id="Rock.TV.ro" tvg-chno="110" tvg-logo="http://192.168.0.5:8888/logos/rock_tv.png?v=2" group-title="Muzica",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-id="AtomicTV.ro@SD" tvg-chno="111" tvg-logo="http://192.168.0.5:8888/logos/atomic_tv.png?v=2" group-title="Muzica",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro@SD" tvg-chno="112" tvg-logo="http://192.168.0.5:8888/logos/atomic_academy_tv.png?v=2" group-title="Muzica",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-id="BoomTV.ro@HD" tvg-chno="113" tvg-logo="http://192.168.0.5:8888/logos/boom_tv.png?v=2" group-title="Muzica",Boom TV
+https://tvboom.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-id="Party.Mix.HD.ro" tvg-chno="114" tvg-logo="http://192.168.0.5:8888/logos/party_mix_hd.png?v=2" group-title="Muzica",Party Mix HD
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 tvg-id="Kiss.TV.ro" tvg-chno="115" tvg-logo="http://192.168.0.5:8888/logos/kiss_tv.png?v=2" group-title="Muzica",Kiss TV
+http://192.168.0.5:8888/live/kiss_tv.m3u8
+#EXTINF:-1 tvg-id="UTV.ro" tvg-chno="116" tvg-logo="http://192.168.0.5:8888/logos/utv.png?v=2" group-title="Muzica",UTV
+http://192.168.0.5:8888/live/utv.m3u8
+#EXTINF:-1 tvg-id="H!T.Music.Channel.ro" tvg-chno="117" tvg-logo="http://192.168.0.5:8888/logos/hit_music_channel.png?v=2" group-title="Muzica",Hit Music Channel
+http://192.168.0.5:8888/live/hit_music.m3u8
+#EXTINF:-1 tvg-id="Music.Channel.ro" tvg-chno="118" tvg-logo="http://192.168.0.5:8888/logos/music_channel.png?v=2" group-title="Muzica",Music Channel
+http://192.168.0.5:8888/live/music_channel.m3u8
+#EXTINF:-1 tvg-id="ZU.TV.ro" tvg-chno="119" tvg-logo="http://192.168.0.5:8888/logos/zu_tv.png?v=2" group-title="Muzica",ZU TV
+http://192.168.0.5:8888/live/zu_tv.m3u8
+#EXTINF:-1 tvg-id="Taraf.TV.ro" tvg-chno="120" tvg-logo="http://192.168.0.5:8888/logos/taraf_tv.png?v=2" group-title="Muzica",Taraf TV
+http://192.168.0.5:8888/live/taraf_tv.m3u8
+#EXTINF:-1 tvg-id="Favorit.ro" tvg-chno="121" tvg-logo="http://192.168.0.5:8888/logos/favorit_tv.png?v=2" group-title="Muzica",Favorit TV
+http://192.168.0.5:8888/live/favorit_tv.m3u8
+#EXTINF:-1 tvg-id="Etno.TV.HD.ro" tvg-chno="122" tvg-logo="http://192.168.0.5:8888/logos/etno_tv.png?v=2" group-title="Muzica",Etno TV
+http://192.168.0.5:8888/live/etno_tv.m3u8
+#EXTINF:-1 tvg-id="AntenaMonden.ro@SD" tvg-chno="123" tvg-logo="http://192.168.0.5:8888/logos/antena_monden.png?v=2" group-title="Divertisment",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 tvg-id="AccesDirect.ro@SD" tvg-chno="124" tvg-logo="http://192.168.0.5:8888/logos/acces_direct.png?v=2" group-title="Divertisment",Acces Direct
+https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
+#EXTINF:-1 tvg-id="iUmor.ro@SD" tvg-chno="127" tvg-logo="http://192.168.0.5:8888/logos/iumor.png?v=2" group-title="Divertisment",iUmor
+https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
+#EXTINF:-1 tvg-id="InPuiiMei.ro@SD" tvg-chno="128" tvg-logo="http://192.168.0.5:8888/logos/in_puii_mei.png?v=2" group-title="Divertisment",In Puii Mei
+https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
+#EXTINF:-1 tvg-id="Chefiro.ro@SD" tvg-chno="129" tvg-logo="http://192.168.0.5:8888/logos/chefi_ro.png?v=2" group-title="Divertisment",Chefi.ro
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+#EXTINF:-1 tvg-id="MediCOOLTV.ro@SD" tvg-chno="130" tvg-logo="http://192.168.0.5:8888/logos/medicool_tv.png?v=2" group-title="Divertisment",MediCOOL TV
+https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="Antena.Stars.HD.ro" tvg-chno="131" tvg-logo="http://192.168.0.5:8888/logos/antena_stars.png?v=2" group-title="Divertisment",Antena Stars
+http://192.168.0.5:8888/live/antena_stars.m3u8
+#EXTINF:-1 tvg-id="Trinitas.TV.ro" tvg-chno="132" tvg-logo="http://192.168.0.5:8888/logos/trinitas_tv.png?v=2" group-title="Regionale & Religioase",Trinitas TV
+https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="Speranta.TV.ro" tvg-chno="133" tvg-logo="http://192.168.0.5:8888/logos/sperantatv.png?v=2" group-title="Regionale & Religioase",SperantaTV
+https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+#EXTINF:-1 tvg-id="Alfa.Omega.TV.ro" tvg-chno="134" tvg-logo="http://192.168.0.5:8888/logos/alfa_omega_tv.png?v=2" group-title="Regionale & Religioase",Alfa Omega TV
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 tvg-id="Credo.TV.ro" tvg-chno="135" tvg-logo="http://192.168.0.5:8888/logos/credo_tv.png?v=2" group-title="Regionale & Religioase",Credo TV
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR.Cluj.ro" tvg-chno="136" tvg-logo="http://192.168.0.5:8888/logos/tvr_cluj.png?v=2" group-title="Regionale & Religioase",TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR.Craiova.ro" tvg-chno="137" tvg-logo="http://192.168.0.5:8888/logos/tvr_craiova.png?v=2" group-title="Regionale & Religioase",TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR.Iași.ro" tvg-chno="138" tvg-logo="http://192.168.0.5:8888/logos/tvr_iasi.png?v=2" group-title="Regionale & Religioase",TVR Iasi
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR.Timișoara.ro" tvg-chno="139" tvg-logo="http://192.168.0.5:8888/logos/tvr_timisoara.png?v=2" group-title="Regionale & Religioase",TVR Timisoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR.Târgu.Mureș.ro" tvg-chno="140" tvg-logo="http://192.168.0.5:8888/logos/tvr_targu_mures.png?v=2" group-title="Regionale & Religioase",TVR Targu-Mures
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelusTV.ro@SD" tvg-chno="141" tvg-logo="http://192.168.0.5:8888/logos/angelus_tv_1080p.png?v=2" group-title="Alte Canale Românești",Angelus TV (1080p)
+http://video.angelustv.ro/hls/angelustv.m3u8
+#EXTINF:-1 tvg-id="Antena3Constanta.ro@SD" tvg-chno="142" tvg-logo="http://192.168.0.5:8888/logos/antena_3_constanta_576p.png?v=2" group-title="Alte Canale Românești",Antena 3 Constanta (576p)
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
+#EXTINF:-1 tvg-id="ArgesTV.ro@SD" tvg-chno="143" tvg-logo="http://192.168.0.5:8888/logos/arges_tv_720p.png?v=2" group-title="Alte Canale Românești",Arges TV (720p)
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 tvg-id="BanatTV.ro@SD" tvg-chno="144" tvg-logo="http://192.168.0.5:8888/logos/banat_tv.png?v=2" group-title="Alte Canale Românești",Banat TV
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-chno="145" tvg-logo="http://192.168.0.5:8888/logos/bucovina_tv_576i.png?v=2" group-title="Alte Canale Românești",Bucovina TV (576i)
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+#EXTINF:-1 tvg-id="CineWow.ro@SD" tvg-chno="146" tvg-logo="http://192.168.0.5:8888/logos/cinewow_576i.png?v=2" group-title="Alte Canale Românești",CineWow (576i)
+https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
+#EXTINF:-1 tvg-id="ColumnaTV.ro@SD" tvg-chno="147" tvg-logo="http://192.168.0.5:8888/logos/columna_tv.png?v=2" group-title="Alte Canale Românești",Columna TV
+https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-chno="148" tvg-logo="http://192.168.0.5:8888/logos/comedy_play_576i.png?v=2" group-title="Alte Canale Românești",Comedy Play (576i)
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 tvg-id="DeParintiro.ro@SD" tvg-chno="149" tvg-logo="http://192.168.0.5:8888/logos/deparinti_ro_576p.png?v=2" group-title="Alte Canale Românești",DeParinti.ro (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-chno="150" tvg-logo="http://192.168.0.5:8888/logos/disney_channel_bulgaria_576i.png?v=2" group-title="Alte Canale Românești",Disney Channel (Bulgaria) (576i)
+http://87.120.179.187:8000/play/a010
+#EXTINF:-1 tvg-id="DottoTV.ro@SD" tvg-chno="151" tvg-logo="http://192.168.0.5:8888/logos/dotto_tv_1080p.png?v=2" group-title="Alte Canale Românești",Dotto TV (1080p)
+https://live.dottotv.ro/index.m3u8
+#EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-chno="152" tvg-logo="http://192.168.0.5:8888/logos/emi_tv_576i.png?v=2" group-title="Alte Canale Românești",EMI TV (576i)
+https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="HD365TV.ro@SD" tvg-chno="154" tvg-logo="http://192.168.0.5:8888/logos/hd365_tv.png?v=2" group-title="Alte Canale Românești",HD365 TV
+https://s2.netstreaming.eu/hd365.m3u8
+#EXTINF:-1 tvg-id="IasiTVLife.ro@SD" tvg-chno="155" tvg-logo="http://192.168.0.5:8888/logos/iasitv_life_1080p_not_24_7.png?v=2" group-title="Alte Canale Românești",IasiTV Life (1080p) [Not 24/7]
+http://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:-1 tvg-id="ImpactTV2.ro@HD" tvg-chno="156" tvg-logo="http://192.168.0.5:8888/logos/impact_tv_2_1080p.png?v=2" group-title="Alte Canale Românești",Impact TV 2 (1080p)
+https://online.tvimpact.live/hls/impact_tv2.m3u8
+#EXTINF:-1 tvg-id="ImpactTV.ro@HD" tvg-chno="157" tvg-logo="http://192.168.0.5:8888/logos/impact_tv_romania_1080p.png?v=2" group-title="Alte Canale Românești",Impact TV (Romania) (1080p)
+#EXTVLCOPT:http-referrer=https://tvimpact.ro/
+https://live.tvimpact.ro:8088/hevc/index.m3u8
+#EXTINF:-1 tvg-id="ImpactTVDance.ro@SD" tvg-chno="158" tvg-logo="http://192.168.0.5:8888/logos/impact_tv_dance_1080p.png?v=2" group-title="Alte Canale Românești",Impact TV Dance (1080p)
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-id="ImpactTVManele.ro@SD" tvg-chno="159" tvg-logo="http://192.168.0.5:8888/logos/impact_tv_manele_1080p.png?v=2" group-title="Alte Canale Românești",Impact TV Manele (1080p)
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-id="Inedit.TV.ro" tvg-chno="160" tvg-logo="http://192.168.0.5:8888/logos/inedit_tv.png?v=2" group-title="Alte Canale Românești",Inedit TV
+https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="InformatiaTV.ro@SD" tvg-chno="161" tvg-logo="http://192.168.0.5:8888/logos/informatia_tv.png?v=2" group-title="Alte Canale Românești",Informatia TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 tvg-id="IntermediaTV.ro@SD" tvg-chno="162" tvg-logo="http://192.168.0.5:8888/logos/intermedia_tv_576p.png?v=2" group-title="Alte Canale Românești",Intermedia TV (576p)
+https://live.intermediatv.ro/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="iRoast.ro@SD" tvg-chno="163" tvg-logo="http://192.168.0.5:8888/logos/iroast_576p.png?v=2" group-title="Alte Canale Românești",iRoast (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro@SD" tvg-chno="164" tvg-logo="http://192.168.0.5:8888/logos/job_tv_1080p.png?v=2" group-title="Alte Canale Românești",JOB TV (1080p)
+https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KapitalTV.ro@SD" tvg-chno="165" tvg-logo="http://192.168.0.5:8888/logos/kapital_tv_576i.png?v=2" group-title="Alte Canale Românești",Kapital TV (576i)
+https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="LightChannel.ro@SD" tvg-chno="166" tvg-logo="http://192.168.0.5:8888/logos/light_channel_romania_480p_not_24_7.png?v=2" group-title="Alte Canale Românești",Light Channel (Romania) (480p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="LiraTV.es@SD" tvg-chno="167" tvg-logo="http://192.168.0.5:8888/logos/liratv_720p.png?v=2" group-title="Alte Canale Românești",LiraTV (720p)
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-chno="168" tvg-logo="http://192.168.0.5:8888/logos/mireasa_720p.png?v=2" group-title="Alte Canale Românești",Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-id="MoldovaTV.md@SD" tvg-chno="170" tvg-logo="http://192.168.0.5:8888/logos/moldova_tv_1080p.png?v=2" group-title="Alte Canale Românești",Moldova TV (1080p)
+https://moldovatv.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-chno="171" tvg-logo="http://192.168.0.5:8888/logos/muscel_tv_720p.png?v=2" group-title="Alte Canale Românești",Muscel TV (720p)
+https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NasulTV.ro@SD" tvg-chno="172" tvg-logo="http://192.168.0.5:8888/logos/nasul_tv_720p_not_24_7.png?v=2" group-title="Alte Canale Românești",Nasul TV (720p) [Not 24/7]
+https://live.nasul.tv/live/stream.m3u8
+#EXTINF:-1 tvg-id="National.24.Plus.ro" tvg-chno="173" tvg-logo="http://192.168.0.5:8888/logos/national_24_plus.png?v=2" group-title="Alte Canale Românești",National 24 Plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+#EXTINF:-1 tvg-id="NCN.ro@SD" tvg-chno="174" tvg-logo="http://192.168.0.5:8888/logos/ncn_576p.png?v=2" group-title="Alte Canale Românești",NCN (576p)
+https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
+#EXTINF:-1 tvg-id="NostalgiaTV.ro@HD" tvg-chno="175" tvg-logo="http://192.168.0.5:8888/logos/nostalgia_tv_1080p.png?v=2" group-title="Alte Canale Românești",Nostalgia TV (1080p)
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
+#EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-chno="176" tvg-logo="http://192.168.0.5:8888/logos/nova_tv_brasov_576p_not_24_7.png?v=2" group-title="Alte Canale Românești",Nova TV Brasov (576p) [Not 24/7]
+http://novapress.ro:2022/live/nova/playlist.m3u8
+#EXTINF:-1 tvg-id="OrizontTV.ro@SD" tvg-chno="177" tvg-logo="http://192.168.0.5:8888/logos/orizont_tv_576i.png?v=2" group-title="Alte Canale Românești",Orizont TV (576i)
+https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-chno="178" tvg-logo="http://192.168.0.5:8888/logos/profi_24_tv.png?v=2" group-title="Alte Canale Românești",PROFI 24 TV
+https://live.ro24tv.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="QuantumTV.ro@SD" tvg-chno="179" tvg-logo="http://192.168.0.5:8888/logos/quantum_tv_576p.png?v=2" group-title="Alte Canale Românești",Quantum TV (576p)
+https://vs2140.vcdn.biz/0ca68e9e27bff1ff8d23519b5d9acbfe_megogo/live/hls/b/700_2490_4000/u_sid/0/o/190218421/rsid/0ad6062a-da94-4998-9598-08eece834674/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.66*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9102974610344929476-b2490000.m3u8
+#EXTINF:-1 tvg-id="QubTV.ro@SD" tvg-chno="180" tvg-logo="http://192.168.0.5:8888/logos/qub_tv.png?v=2" group-title="Alte Canale Românești",Qub TV
+https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaIasi.ro@SD" tvg-chno="183" tvg-logo="http://192.168.0.5:8888/logos/radio_romania_iasi_576i_not_24_7.png?v=2" group-title="Alte Canale Românești",Radio Romania Iasi (576i) [Not 24/7]
+https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro@SD" tvg-chno="184" tvg-logo="http://192.168.0.5:8888/logos/radio_romania_oltenia_craiova_576p_not_24_7.png?v=2" group-title="Alte Canale Românești",Radio Romania Oltenia-Craiova (576p) [Not 24/7]
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro@SD" tvg-chno="185" tvg-logo="http://192.168.0.5:8888/logos/radio_romania_targu_mures_576p.png?v=2" group-title="Alte Canale Românești",Radio Romania Targu Mures (576p)
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-chno="186" tvg-logo="http://192.168.0.5:8888/logos/realitatea_star_576i.png?v=2" group-title="Alte Canale Românești",Realitatea Star (576i)
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="ROTVValencia.es@SD" tvg-chno="187" tvg-logo="http://192.168.0.5:8888/logos/rotv_valencia_720p.png?v=2" group-title="Alte Canale Românești",ROTV Valencia (720p)
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 tvg-id="RTNChicago.us@SD" tvg-chno="188" tvg-logo="http://192.168.0.5:8888/logos/rtn_chicago_480p.png?v=2" group-title="Alte Canale Românești",RTN Chicago (480p)
+https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
+#EXTINF:-1 tvg-id="SangeorzTV.ro@SD" tvg-chno="189" tvg-logo="http://192.168.0.5:8888/logos/sangeorz_tv_576p.png?v=2" group-title="Alte Canale Românești",Sangeorz TV (576p)
+https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-id="SmartRadio.ro@SD" tvg-chno="190" tvg-logo="http://192.168.0.5:8888/logos/smart_radio_576p.png?v=2" group-title="Alte Canale Românești",Smart Radio (576p)
+https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ro@SD" tvg-chno="191" tvg-logo="http://192.168.0.5:8888/logos/super_tv_romania_576p.png?v=2" group-title="Alte Canale Românești",Super TV (Romania) (576p)
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="Tele7ABCHD.ro@SD" tvg-chno="192" tvg-logo="http://192.168.0.5:8888/logos/tele7abc_hd_720p.png?v=2" group-title="Alte Canale Românești",Tele7ABC HD (720p)
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TeleMBotosani.ro@SD" tvg-chno="193" tvg-logo="http://192.168.0.5:8888/logos/telem_botosani_540p_not_24_7.png?v=2" group-title="Alte Canale Românești",TeleM Botosani (540p) [Not 24/7]
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMoldovaPlus.ro@SD" tvg-chno="194" tvg-logo="http://192.168.0.5:8888/logos/telemoldova_geo_blocked.png?v=2" group-title="Alte Canale Românești",TeleMoldova + [Geo-blocked]
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+#EXTINF:-1 tvg-id="Telestar.1.ro" tvg-chno="195" tvg-logo="http://192.168.0.5:8888/logos/telestar1.png?v=2" group-title="Alte Canale Românești",Telestar1
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
+#EXTINF:-1 tvg-id="TequilaMusicTV.ro@SD" tvg-chno="196" tvg-logo="http://192.168.0.5:8888/logos/tequila_music_tv.png?v=2" group-title="Alte Canale Românești",Tequila Music TV
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@SD" tvg-chno="197" tvg-logo="http://192.168.0.5:8888/logos/the_fishing_hunting_channel.png?v=2" group-title="Alte Canale Românești",The Fishing & Hunting Channel
+http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:-1 tvg-id="TraditionalTV.ro@SD" tvg-chno="198" tvg-logo="http://192.168.0.5:8888/logos/traditional_tv_1080p.png?v=2" group-title="Alte Canale Românești",Traditional TV (1080p)
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1 tvg-id="TVArad.ro@SD" tvg-chno="199" tvg-logo="http://192.168.0.5:8888/logos/tv_arad_576i.png?v=2" group-title="Alte Canale Românești",TV Arad (576i)
+https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
+#EXTINF:-1 tvg-id="TVAS.ro@SD" tvg-chno="200" tvg-logo="http://192.168.0.5:8888/logos/tv_as.png?v=2" group-title="Alte Canale Românești",TV AS
+https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
+#EXTINF:-1 tvg-id="TVBuzau.ro@SD" tvg-chno="201" tvg-logo="http://192.168.0.5:8888/logos/tv_buzau_576p.png?v=2" group-title="Alte Canale Românești",TV Buzau (576p)
+http://78.96.33.89:8080
+#EXTINF:-1 tvg-id="TVSE.ro@SD" tvg-chno="202" tvg-logo="http://192.168.0.5:8888/logos/tv_se_576p_not_24_7.png?v=2" group-title="Alte Canale Românești",TV SE (576p) [Not 24/7]
+http://89.38.8.130:39419
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD" tvg-chno="203" tvg-logo="http://192.168.0.5:8888/logos/tvplus_suceava_576p.png?v=2" group-title="Alte Canale Românești",TVPlus Suceava (576p)
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSat.ro@SD" tvg-chno="204" tvg-logo="http://192.168.0.5:8888/logos/tvsat_576p_not_24_7.png?v=2" group-title="Alte Canale Românești",TVSat (576p) [Not 24/7]
+http://89.38.8.130:39443
