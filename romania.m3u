@@ -363,3 +363,89 @@ https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 https://tezaurtv.md/stream/index.m3u8
 #EXTINF:-1 tvg-id="PrivescEuTV.md@SD" tvg-chno="172" tvg-logo="https://i.imgur.com/ukBacSn.png" group-title="4K Ultra HD",Privesc.Eu TV 4K
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.HD.ro" tvg-chno="173" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/hbo.png?v=2" group-title="Filme & Seriale",HBO
+http://192.168.0.5:8888/live/hbo1.m3u8
+#EXTINF:-1 tvg-id="HBO.2.HD.ro" tvg-chno="174" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/hbo_2.png?v=2" group-title="Filme & Seriale",HBO 2
+http://192.168.0.5:8888/live/hbo2.m3u8
+#EXTINF:-1 tvg-id="HBO.3.HD.ro" tvg-chno="175" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/hbo_3.png?v=2" group-title="Filme & Seriale",HBO 3
+http://192.168.0.5:8888/live/hbo3.m3u8
+#EXTINF:-1 tvg-id="AXN.Black.ro" tvg-chno="176" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/axn_black.png?v=2" group-title="Filme & Seriale",AXN Black
+http://192.168.0.5:8888/live/axn_black.m3u8
+#EXTINF:-1 tvg-id="AXN.White.ro" tvg-chno="177" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/axn_white.png?v=2" group-title="Filme & Seriale",AXN White
+http://192.168.0.5:8888/live/axn_white.m3u8
+#EXTINF:-1 tvg-id="Warner.TV.ro" tvg-chno="178" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/warner_tv.png?v=2" group-title="Filme & Seriale",Warner TV
+http://192.168.0.5:8888/live/warner_tv.m3u8
+#EXTINF:-1 tvg-id="Sci.Fi.ro" tvg-chno="179" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/sci_fi_channel.png?v=2" group-title="Filme & Seriale",Sci-Fi Channel
+http://192.168.0.5:8888/live/scifi.m3u8
+#EXTINF:-1 tvg-id="Diva.ro" tvg-chno="180" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/diva_universal.png?v=2" group-title="Filme & Seriale",DIVA Universal
+http://192.168.0.5:8888/live/diva.m3u8
+#EXTINF:-1 tvg-id="FILM.CAFE.HD.ro" tvg-chno="181" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/film_cafe.png?v=2" group-title="Filme & Seriale",Film Cafe
+http://192.168.0.5:8888/live/film_cafe.m3u8
+#EXTINF:-1 tvg-id="AMC.HD.ro" tvg-chno="182" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/amc.png?v=2" group-title="Filme & Seriale",AMC
+http://192.168.0.5:8888/live/amc.m3u8
+#EXTINF:-1 tvg-id="Epic.Drama.ro" tvg-chno="183" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/epic_drama.png?v=2" group-title="Filme & Seriale",Epic Drama
+http://192.168.0.5:8888/live/epic_drama.m3u8
+#EXTINF:-1 tvg-id="Viasat.Kino.ro" tvg-chno="184" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/viasat_kino.png?v=2" group-title="Filme & Seriale",TV 1000 (Viasat Kino)
+http://192.168.0.5:8888/live/viasat_kino.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.HD.ro" tvg-chno="185" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/comedy_central.png?v=2" group-title="Filme & Seriale",Comedy Central
+http://192.168.0.5:8888/live/comedy_central.m3u8
+#EXTINF:-1 tvg-id="FilmBox.Extra.HD.ro" tvg-chno="186" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/filmbox_extra.png?v=2" group-title="Filme & Seriale",Filmbox Extra HD
+http://192.168.0.5:8888/live/filmbox_extra.m3u8
+#EXTINF:-1 tvg-id="Filmbox.Premium.ro" tvg-chno="187" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/filmbox_premium.png?v=2" group-title="Filme & Seriale",Filmbox Premium
+http://192.168.0.5:8888/live/filmbox_premium.m3u8
+#EXTINF:-1 tvg-id="BollywoodTV.ro" tvg-chno="188" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/bollywood_tv.png?v=2" group-title="Filme & Seriale",Bollywood TV
+http://192.168.0.5:8888/live/bollywood_tv.m3u8
+#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-chno="189" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/digi_sport_1.png?v=2" group-title="Sport",Digi Sport 1
+http://192.168.0.5:8888/live/digi_sport1.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.ro" tvg-chno="190" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/discovery_channel.png?v=2" group-title="Documentare",Discovery Channel
+http://192.168.0.5:8888/live/discovery.m3u8
+#EXTINF:-1 tvg-id="ID.Investigation.Discovery.HD.ro" tvg-chno="191" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/investigation_discovery.png?v=2" group-title="Documentare",Investigation Discovery
+http://192.168.0.5:8888/live/id_investigation.m3u8
+#EXTINF:-1 tvg-id="Crime.+.Investigation.ro" tvg-chno="192" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/crime_investigation.png?v=2" group-title="Documentare",Crime + Investigation
+http://192.168.0.5:8888/live/crime_investigation.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.HD.ro" tvg-chno="193" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/national_geographic.png?v=2" group-title="Documentare",National Geographic
+http://192.168.0.5:8888/live/natgeo.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.ro" tvg-chno="194" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/nat_geo_wild.png?v=2" group-title="Documentare",Nat Geo Wild
+http://192.168.0.5:8888/live/natgeo_wild.m3u8
+#EXTINF:-1 tvg-id="History.HD.ro" tvg-chno="195" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/history_channel.png?v=2" group-title="Documentare",History Channel
+http://192.168.0.5:8888/live/history.m3u8
+#EXTINF:-1 tvg-id="HGTV.HD.ro" tvg-chno="196" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/hgtv.png?v=2" group-title="Documentare",HGTV
+http://192.168.0.5:8888/live/hgtv.m3u8
+#EXTINF:-1 tvg-id="TLC.ro" tvg-chno="197" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/tlc.png?v=2" group-title="Documentare",TLC
+http://192.168.0.5:8888/live/tlc.m3u8
+#EXTINF:-1 tvg-id="Travel.Channel.ro" tvg-chno="198" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/travel_channel.png?v=2" group-title="Documentare",Travel Channel
+http://192.168.0.5:8888/live/travel.m3u8
+#EXTINF:-1 tvg-id="TV.Paprika.ro" tvg-chno="199" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/tv_paprika.png?v=2" group-title="Documentare",TV Paprika
+http://192.168.0.5:8888/live/tv_paprika.m3u8
+#EXTINF:-1 tvg-id="BBC.Earth.HD.ro" tvg-chno="200" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/bbc_earth.png?v=2" group-title="Documentare",BBC Earth
+http://192.168.0.5:8888/live/bbc_earth.m3u8
+#EXTINF:-1 tvg-id="The.Fishing.&.Hunting.Channel.HD.ro" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/fishing_hunting.png?v=2" group-title="Documentare",Fishing & Hunting
+http://192.168.0.5:8888/live/fishing_hunting.m3u8
+#EXTINF:-1 tvg-id="Viasat.Explore.ro" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/viasat_explore.png?v=2" group-title="Documentare",Viasat Explore
+http://192.168.0.5:8888/live/viasat_explore.m3u8
+#EXTINF:-1 tvg-id="Viasat.History.HD.ro" tvg-chno="203" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/viasat_history.png?v=2" group-title="Documentare",Viasat History
+http://192.168.0.5:8888/live/viasat_history.m3u8
+#EXTINF:-1 tvg-id="Viasat.Nature.ro" tvg-chno="204" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/viasat_nature.png?v=2" group-title="Documentare",Viasat Nature
+http://192.168.0.5:8888/live/viasat_nature.m3u8
+#EXTINF:-1 tvg-id="Cartoon.Network.ro" tvg-chno="205" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/cartoon_network.png?v=2" group-title="Copii & Animatie",Cartoon Network
+http://192.168.0.5:8888/live/cartoon_network.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.ro" tvg-chno="206" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/cartoonito.png?v=2" group-title="Copii & Animatie",Cartoonito
+http://192.168.0.5:8888/live/cartoonito.m3u8
+#EXTINF:-1 tvg-id="Disney.Channel.ro" tvg-chno="207" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/disney_channel.png?v=2" group-title="Copii & Animatie",Disney Channel
+http://192.168.0.5:8888/live/disney_channel.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.ro" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/disney_junior.png?v=2" group-title="Copii & Animatie",Disney Junior
+http://192.168.0.5:8888/live/disney_junior.m3u8
+#EXTINF:-1 tvg-id="Nick.Jr.ro" tvg-chno="209" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/nickelodeon_junior.png?v=2" group-title="Copii & Animatie",Nickelodeon Junior
+http://192.168.0.5:8888/live/nick_jr.m3u8
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/minimax.png?v=2" group-title="Copii & Animatie",Minimax
+http://192.168.0.5:8888/live/minimax.m3u8
+#EXTINF:-1 tvg-id="Duck.TV.HD.ro" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/duck_tv.png?v=2" group-title="Copii & Animatie",Duck TV
+http://192.168.0.5:8888/live/duck_tv.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.ro" tvg-chno="212" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/boomerang.png?v=2" group-title="Copii & Animatie",Boomerang
+http://192.168.0.5:8888/live/boomerang.m3u8
+#EXTINF:-1 tvg-id="UTV.ro" tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/utv.png?v=2" group-title="Muzica",UTV
+http://192.168.0.5:8888/live/utv.m3u8
+#EXTINF:-1 tvg-id="H!T.Music.Channel.ro" tvg-chno="214" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/hit_music_channel.png?v=2" group-title="Muzica",Hit Music Channel
+http://192.168.0.5:8888/live/hit_music.m3u8
+#EXTINF:-1 tvg-id="ZU.TV.ro" tvg-chno="215" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/zu_tv.png?v=2" group-title="Muzica",ZU TV
+http://192.168.0.5:8888/live/zu_tv.m3u8
