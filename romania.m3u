@@ -327,9 +327,9 @@ http://89.38.8.130:39419
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSat.ro@SD" tvg-chno="154" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/tvsat_576p_not_24_7.png?v=2" group-title="Alte Canale Românești",TVSat (576p) [Not 24/7]
 http://89.38.8.130:39443
-#EXTINF:-1 tvg-id="SkyShowtime1.ro@HD" tvg-chno="155" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/SkyShowtime_1.svg/revision/latest?cb=20220920074626" group-title="Filme & Seriale",SkyShowtime 1
+#EXTINF:-1 tvg-id="SkyShowtime1.ro@HD" tvg-chno="155" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/skyshowtime_1.png?v=2" group-title="Filme & Seriale",SkyShowtime 1
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi1%2Fusergendxn430rnd-got.htm
-#EXTINF:-1 tvg-id="SkyShowtime2.ro@HD" tvg-chno="156" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/SkyShowtime_2.svg/revision/latest?cb=20220920074646" group-title="Filme & Seriale",SkyShowtime 2
+#EXTINF:-1 tvg-id="SkyShowtime2.ro@HD" tvg-chno="156" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/skyshowtime_2.png?v=2" group-title="Filme & Seriale",SkyShowtime 2
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fusergendxj85trnd-got.htm
 #EXTINF:-1 tvg-id="AntenaSport.ro@SD" tvg-chno="157" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/antenasport.png?v=2" group-title="Sport",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
@@ -337,7 +337,7 @@ https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
 #EXTINF:-1 tvg-id="PrimaSportPPV2.ro@SD" tvg-chno="159" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a8c4cd410038eab9d207fd2f15d4d1ce.png" group-title="Sport",Prima Sport PPV 2
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm
-#EXTINF:-1 tvg-id="SportExtra.ro@SD" tvg-chno="160" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755" group-title="Sport",Sport Extra
+#EXTINF:-1 tvg-id="SportExtra.ro@SD" tvg-chno="160" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/sport_extra.png?v=2" group-title="Sport",Sport Extra
 http://91.235.165.117:8001/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="MotorvisionPlus.de@SD" tvg-chno="161" tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="Divertisment",Motorvision+
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
