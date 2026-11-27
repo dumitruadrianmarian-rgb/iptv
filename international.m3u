@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/eurosport_4k.png" group-title="4K Ultra HD",Eurosport 4K (1440p QHD)
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/eurosport_4k.png" group-title="Sports",Eurosport HD (1080p)
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Fireplace4K.us" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/fireplace_4k.png" group-title="4K Ultra HD",Fireplace 4K Relaxation (2160p)
 https://d21izs34d0y5tl.cloudfront.net/2160p-vtt/index.m3u8
@@ -9,7 +9,7 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
 #EXTINF:-1 tvg-id="OceanVibes4K.us" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/ocean_vibes_4k.png" group-title="4K Ultra HD",Ocean Vibes 4K Relaxation (2160p)
 https://pb-vt93jy06rfty1.akamaized.net/2160p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="PrivescEu.md@4K" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/privesc_eu_4k.png" group-title="4K Ultra HD",Privesc.Eu TV 4K UHD (2160p)
+#EXTINF:-1 tvg-id="PrivescEu.md@4K" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/privesc_eu_4k.png" group-title="News & General",Privesc.Eu TV HD (1080p)
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/abc_news_live.png" group-title="World News",ABC News Live HD
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
@@ -209,3 +209,33 @@ https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-chno="105" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies & Cinema",Movies Thriller (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-chno="106" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/bloomberg_4k.png" group-title="4K Ultra HD",Bloomberg TV+ 4K UHD (2160p)
+https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="HebeiTV.cn@SD" tvg-chno="107" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="4K Ultra HD",Hebei TV 4K UHD (2160p)
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/bbc_earth_us_1080p.png?v=2" group-title="Documentaries",BBC Earth US (1080p)
+https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="DocuBayTV.in@SD" tvg-chno="109" tvg-logo="https://i.imgur.com/OGyeLLR.png" group-title="Documentaries",DocuBay TV (1080p)
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-chno="110" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="Documentaries",InWonder (1080p)
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us@SD" tvg-chno="111" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="Documentaries",Bloomberg Originals (1080p)
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="BritBoxMysteries.us@SD" tvg-chno="112" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="Documentaries",BritBox Mysteries (1080p)
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime360.us@SD" tvg-chno="113" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Documentaries",Crime 360 (1080p)
+https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-chno="114" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/fifa_1080p.png?v=2" group-title="Sports",FIFA+ (1080p)
+https://95cedebd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="EurovisionSport.uk@Europe" tvg-chno="115" tvg-logo="https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png" group-title="Sports",Eurovision Sport (1080p)
+https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSportsNews.au@SD" tvg-chno="116" tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="Sports",Fox Sports News (1080p)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+#EXTINF:-1 tvg-id="FloRacing.us@HD" tvg-chno="117" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png" group-title="Sports",FloRacing (1080p)
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FloHockey.us@HD" tvg-chno="118" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png" group-title="Sports",FloHockey (1080p)
+https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CINDIETV.br@HD" tvg-chno="120" tvg-logo="https://raw.githubusercontent.com/dumitruadrianmarian-rgb/iptv/main/logos/cindie_tv_1080p.png?v=2" group-title="Movies & Cinema",CINDIE TV (1080p)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us@SD" tvg-chno="121" tvg-logo="https://i.imgur.com/FyNot5W.png" group-title="Music",California Music Channel (1080p)
+https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
