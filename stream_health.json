@@ -1,92 +1,12 @@
 {
   "failures": {
-    "romania.m3u::https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm": {
-      "name": "Prima Sport 5",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm",
-      "playlist": "romania.m3u",
-      "count": 2,
-      "last_error": "HTTP -1",
-      "last_checked": "2026-11-26 04:30"
-    },
-    "romania.m3u::https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi1%2Fusergendxn430rnd-got.htm": {
-      "name": "SkyShowtime 1",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi1%2Fusergendxn430rnd-got.htm",
-      "playlist": "romania.m3u",
-      "count": 2,
-      "last_error": "HTTP -1",
-      "last_checked": "2026-11-26 04:30"
-    },
-    "romania.m3u::https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fusergendxj85trnd-got.htm": {
-      "name": "SkyShowtime 2",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fusergendxj85trnd-got.htm",
-      "playlist": "romania.m3u",
-      "count": 2,
-      "last_error": "HTTP -1",
-      "last_checked": "2026-11-26 04:30"
-    },
-    "romania.m3u::https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm": {
-      "name": "Prima Sport PPV 1",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm",
-      "playlist": "romania.m3u",
-      "count": 2,
-      "last_error": "HTTP -1",
-      "last_checked": "2026-11-26 04:30"
-    },
-    "romania.m3u::https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm": {
-      "name": "Prima Sport PPV 2",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm",
-      "playlist": "romania.m3u",
-      "count": 2,
-      "last_error": "HTTP -1",
-      "last_checked": "2026-11-26 04:30"
-    },
-    "romania.m3u::https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm": {
-      "name": "Digi Sport 2",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm",
-      "playlist": "romania.m3u",
-      "count": 1,
-      "last_error": "HTTP -1",
-      "last_checked": "2026-11-26 04:30"
-    },
-    "romania.m3u::https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm": {
-      "name": "Digi Sport 3",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm",
-      "playlist": "romania.m3u",
-      "count": 1,
-      "last_error": "HTTP -1",
-      "last_checked": "2026-11-26 04:30"
-    },
-    "romania.m3u::https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm": {
-      "name": "Digi Sport 4",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm",
-      "playlist": "romania.m3u",
-      "count": 1,
-      "last_error": "HTTP -1",
-      "last_checked": "2026-11-26 04:30"
-    },
-    "romania.m3u::https://rundle.tv/proxy5.php?src=https%3A%2F%2Fsaruman1.tharen001.cfd%2Fjimy%2Fusergenq3n0lz7kr-got.htm": {
-      "name": "Jim Jam",
-      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fsaruman1.tharen001.cfd%2Fjimy%2Fusergenq3n0lz7kr-got.htm",
-      "playlist": "romania.m3u",
-      "count": 1,
-      "last_error": "HTTP -1",
-      "last_checked": "2026-11-26 04:30"
-    },
-    "romania.m3u::https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1": {
-      "name": "Sangeorz TV (576p)",
-      "url": "https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1",
-      "playlist": "romania.m3u",
-      "count": 1,
-      "last_error": "HTTP 404",
-      "last_checked": "2026-11-26 04:30"
-    },
     "international.m3u::https://ztnr.rtve.es/ztnr/5468585.m3u8": {
       "name": "RTVE La 2 HD",
       "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
       "playlist": "international.m3u",
-      "count": 1,
-      "last_error": "HTTP 403 Forbidden on media chunk: https://rtvelivestream.rtve.es/rtvesec/can/GL1/2_v_9_2026_11_26_03_30_00_15774.ts",
-      "last_checked": "2026-11-26 04:30"
+      "count": 2,
+      "last_error": "HTTP 403 Forbidden on media chunk: https://rtvelivestream.rtve.es/rtvesec/can/GL1/2_v_9_2026_11_27_03_30_01_15774.ts",
+      "last_checked": "2026-11-27 04:30"
     }
   }
 }
